@@ -1,10 +1,10 @@
 import React from 'react'
 import './Header.css'
 import logo from '../../assets/logo.png'
-import searchIcon from '../../../public/search_icon.svg'
-import bellIcon from '../../../public/bell_icon.svg'
+import searchIcon from '../../assets/search_icon.svg'
+import bellIcon from '../../assets/bell_icon.svg'
 import profileImg from '../../assets/profile_img.png'
-import dropDownicon from '../../../public/caret_icon.svg'
+import dropDownicon from '../../assets/caret_icon.svg'
 
 
 const Header = () => {
